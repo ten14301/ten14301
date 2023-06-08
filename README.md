@@ -4,7 +4,7 @@
 
 Hi, my name is Nititorn Kongdang. I am an undergraduate at KMITL.
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,mysql,php,js,python,arduino,linux,nodejs,mongodb)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,mysql,php,js,python,arduino,linux,nodejs,mongodb,firebase)](https://skills.thijs.gg)
 
 
 
