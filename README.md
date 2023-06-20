@@ -10,10 +10,10 @@ Hi, my name is Nititorn Kongdang. I am an undergraduate at KMITL.
 
 ## Status
 
-[![ten14301's GitHub stats](https://github-readme-stats.vercel.app/api?username=ten14301)](https://github.com/anuraghazra/github-readme-stats)
+[![ten14301's GitHub stats](https://github-readme-stats.vercel.app/api?username=ten14301)]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ten14301&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ten14301&layout=pie)]
 
 
 
