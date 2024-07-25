@@ -4,7 +4,7 @@
 
 Hi, my name is Nititorn Kongdang. I am an undergraduate at KMITL.
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,cpp,express,mongodb,mysql,nodejs,postman,react,raspberrypi,opencv,firebase,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,cpp,php,express,mongodb,mysql,nodejs,postman,react,raspberrypi,opencv,firebase,linux)](https://skillicons.dev)
 
 
 
