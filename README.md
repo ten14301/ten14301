@@ -1,9 +1,10 @@
 <div align="center">
 
 # Nititorn Kongdang
-<h1 align="center">
+
+<h3 align="center">
 Hi, my name is Nititorn Kongdang. I am an undergraduate at KMITL.
-</h1>
+</h3>
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,py,html,css,cpp,php,express,mongodb,mysql,nodejs,bootstrap,react,raspberrypi,opencv,tensorflow,firebase,linux,postman">
