@@ -7,7 +7,7 @@ Hi, my name is Nititorn Kongdang. I graduated from KMITL.
 </h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,py,html,css,cpp,php,express,mongodb,mysql,nodejs,react,raspberrypi,opencv,tensorflow,firebase,linux,postman">
+      <img src="https://skillicons.dev/icons?i=js,py,html,css,cs,php,express,mongodb,mysql,nodejs,react,raspberrypi,opencv,tensorflow,firebase,linux,postman">
     </a>
 </p>
 
