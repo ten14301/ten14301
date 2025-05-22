@@ -3,7 +3,7 @@
 # Nititorn Kongdang
 
 <h3 align="center">
-Hi, my name is Nititorn Kongdang. I am an undergraduate at KMITL.
+Hi, my name is Nititorn Kongdang. I graduated from KMITL.
 </h3>
 <p align="center">
     <a href="https://skillicons.dev">
